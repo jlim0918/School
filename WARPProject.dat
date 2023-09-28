@@ -1,0 +1,36 @@
+#Joaquin_Lim_limjoaqu_1008463440
+
+table BOM_table IN "ODBC" ".\WARP2011W.mdb" "SQL=SELECT * FROM BOM":
+	[Product_Num, RM_Num] , qtyReq ~ Quantity;
+
+read table BOM_table;
+
+table RM_table IN "ODBC" ".\WARP2011W.mdb" "SQL=SELECT RM_Num,Cost,S_Quantity FROM RM_Master":
+	K <-[RM_Num] , costRM ~ Cost, qtyAvail ~ S_Quantity;
+	
+read table RM_table;
+
+table MachAssign_table IN "ODBC" ".\WARP2011W.mdb" "SQL=SELECT Product_Num,Machine_Num,Avg_Duration FROM Machine_Assign":
+	[Product_Num, Machine_Num] , avgDuration~ Avg_Duration;
+
+read table MachAssign_table;
+
+table MachMaster_table IN "ODBC" ".\WARP2011W.mdb" "SQL=SELECT Machine_Num, OpCost_per_min FROM Machine_Master":
+	J <-[Machine_Num], opCost ~ OpCost_per_min;
+	
+read table MachMaster_table;
+
+table AvgDemand_table IN "ODBC" ".\WARP2011W.mdb" "SQL=SELECT Product_Num,AVG(Demand) AS avgDemand FROM Product_Demand WHERE Month=2 GROUP BY Product_Num":
+	[Product_Num] , demand ~ avgDemand;
+
+read table AvgDemand_table;
+
+table ProdMaster_table IN "ODBC" ".\WARP2011W.mdb" "SQL=SELECT Product_Num, Sales_Price FROM Product_Master":
+	I <-[Product_Num] , priceSale ~ Sales_Price;
+	
+read table ProdMaster_table;
+
+table WareMaster_table IN "ODBC" ".\WARP2011W.mdb" "SQL=SELECT Warehouse_Num, Capacity FROM Warehouse_Master":
+	L <-[Warehouse_Num] , capacity ~ Capacity;
+	
+read table WareMaster_table;

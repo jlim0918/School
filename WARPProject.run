@@ -1,0 +1,109 @@
+#Joaquin_Lim_limjoaqu_1008463440
+
+#resetting the environment
+reset;
+
+#calling the model
+model WARPProject.mod;
+
+#calling the data
+data WARPProject.dat;
+
+#tailoring the options
+option solver gurobi;
+
+#ordering AMPL to solve proposed model
+solve;
+
+#rounding relaxed variables
+for {i in I} {
+	let x[i] := round(x[i]);
+	#let z[i] := round(z[i]); #uncomment to answer Q5
+}
+for {j in J} {
+	let y[j] := round(y[j]);
+}
+
+
+#printing outputs
+
+printf "The maximum profit is:%0.2f.\n", Profit > WARPProject.out;
+printf "The optimal x-values are: \n" > WARPProject.out;
+display x, x.rc > WARPProject.out;
+printf "The optimal y-values are: \n" > WARPProject.out;
+display y, y.rc > WARPProject.out;
+printf "The slack variables are:" > WARPProject.out; 
+display budgetRM.slack, maxMachTime.slack, maxWarehouse.slack, maxRMQty.slack, machShoeEquality.slack > WARPProject.out;
+printf "The shadow prices are:" > WARPProject.out;
+display  budgetRM.dual, maxMachTime.dual, maxWarehouse.dual, maxRMQty.dual, machShoeEquality.dual > WARPProject.out;
+
+#check if constraints are binding
+if budgetRM.slack == 0 then
+		printf "Constraint budgetRM is binding.\n" > WARPProject.out;
+	else
+		printf "Constraint budgetRM is not binding.\n" > WARPProject.out;
+
+for {j in J} {
+	if maxMachTime.slack[j] == 0 then
+		printf "Constraint maxMachTime j%d is binding.\n",j > WARPProject.out;
+	else
+			printf "Constraint maxMachTime j%d is not binding.\n",j > WARPProject.out;
+	}
+	
+if maxWarehouse.slack == 0 then
+		printf "Constraint maxWarehouse is binding.\n" > WARPProject.out;
+	else
+		printf "Constraint maxWarehouse is not binding.\n" > WARPProject.out;
+
+for {k in K} {
+	if maxRMQty.slack[k] == 0 then
+		printf "Constraint maxRMQty k%d is binding.\n",k > WARPProject.out;
+	else
+			printf "Constraint maxRMty k%d is not binding.\n",k > WARPProject.out;
+	}
+	
+for {j in J} {
+	if machShoeEquality.slack[j] == 0 then
+		printf "Constraint machShoeEquality j%d is binding. \n",j> WARPProject.out;
+	else
+		printf "Constraint machShoeEquality j%d is not binding. \n",j> WARPProject.out;
+}
+
+#check relaxation violations
+if sum{i in I, k in K} x[i]*qtyReq[i,k]*costRM[k] <= 10000000 then
+	printf "Constraint budgetRM is not violated after rounding. \n"> WARPProject.out;
+else
+	printf "Constraint budgetRM is violated after rounding. \n"> WARPProject.out;
+	
+for {j in J} {
+	if y[j] <= (60*12*28) then
+		printf "Constraint maxMachTime j%d is not violated after rounding. \n",j> WARPProject.out;
+	else	
+		printf "Constraint maxMachTime j$d is violated after rounding. \n",j> WARPProject.out;
+}
+
+if sum{i in I} x[i] <= sum{l in L} capacity[l] then
+	printf "Constraint maxWarehouse is not violated after rounding. \n"> WARPProject.out;
+else
+	printf "Constraint maxWarehouse is violated after rounding. \n"> WARPProject.out;
+	
+for {k in K} {
+	if sum{i in I} qtyReq[i,k]*x[i] <= qtyAvail[k] then
+		printf "Constraint maxRMQty k%d is not violated after rounding. \n",k> WARPProject.out;
+	else
+		printf "Constraint maxRMQty k%d is violated after rounding. \n",k> WARPProject.out;
+}
+
+for {j in J} {
+	if sum{i in I} (1/60)*avgDuration[i,j]*x[i] = y[j] then
+		printf "Constraint machShoeEquality j%d is not violated after rounding. \n",j> WARPProject.out;
+	else
+		printf "Constraint machShoeEquality j%d is violated after rounding. \n",j> WARPProject.out;
+}
+
+/* uncomment to answer Q5
+printf "The optimal z-values are: \n" > WARPProject.out;
+display z > WARPProject.out;
+*/
+
+close WARPProject.out;

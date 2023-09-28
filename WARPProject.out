@@ -1,0 +1,1628 @@
+The maximum profit is:14038008.10.
+The optimal x-values are: 
+:        x         x.rc        :=
+SH001      0   -2.09774
+SH002      0   -0.308269
+SH003      0   -0.961001
+SH004      0   -0.656699
+SH005      0   -0.0641096
+SH006      0   -0.744559
+SH007      0   -2.37717
+SH008      0   -2.33436
+SH009      0   -0.836918
+SH010      0   -0.427918
+SH011    444   -5.30131e-15
+SH012      0   -0.551286
+SH013    632   -2.45384e-12
+SH014      0   -1.15686
+SH015      0   -0.230741
+SH016      0   -1.18203
+SH017      0   -1.61326
+SH018      0   -1.17998
+SH019     83    3.73229e-13
+SH020      0   -0.444805
+SH021      0   -0.344149
+SH022      0   -2.2929
+SH023      0   -1.6422
+SH024     16   -4.67959e-14
+SH025    376    3.77198e-14
+SH026      0   -1.06677
+SH027    526    7.38576e-14
+SH028      0   -0.746154
+SH029    483   -7.35245e-13
+SH030      0   -0.98716
+SH031    545   -4.64628e-14
+SH032    649    2.00395e-14
+SH033      0   -1.09718
+SH034    725   -8.64253e-13
+SH035      0   -0.477247
+SH036      0   -0.779077
+SH037      0   -2.86225
+SH038     88   -5.01849e-13
+SH039    333    1.70336e-13
+SH040    750   -2.09277e-14
+SH041    196    1.26843e-14
+SH042      0   -0.69407
+SH043      0   -0.745395
+SH044    435    3.1114e-14
+SH045      0   -0.21927
+SH046      0   -1.79768
+SH047    314   -3.71453e-13
+SH048      0   -0.581314
+SH049      0   -2.06611
+SH050    241   -1.58484e-14
+SH051      0   -3.1642
+SH052      0   -1.63297
+SH053      0   -0.39906
+SH054      0   -1.06048
+SH055      0   -1.81524
+SH056      0   -0.678342
+SH057    159   -3.53328e-14
+SH058    603    3.88384e-13
+SH059      0   -0.502875
+SH060      0   -1.23325
+SH061    855    2.72449e-13
+SH062    545   -1.13798e-15
+SH063      0   -0.391806
+SH064      0   -0.572719
+SH065      0   -0.0877209
+SH066      0   -1.28414
+SH067      0   -1.44521
+SH068    287    5.837e-14
+SH069      0   -0.992327
+SH070      0   -0.875196
+SH071      0   -0.0255336
+SH072    233   -5.2125e-14
+SH073      0   -0.292842
+SH074      0   -1.18285
+SH075      0   -0.80056
+SH076     91   -5.25413e-14
+SH077      0   -0.403669
+SH078      0   -0.160022
+SH079      0   -0.427881
+SH080    516   -1.16851e-14
+SH081    301   -3.98293e-14
+SH082    301    7.63223e-13
+SH083      0   -1.20889
+SH084      0   -1.59902
+SH085      0   -2.54624
+SH086      0   -2.55712
+SH087      0   -0.443671
+SH088    173    3.22242e-14
+SH089      0   -1.74671
+SH090    591   -2.03171e-14
+SH091      0   -1.15712
+SH092      0   -0.45612
+SH093      0   -0.103993
+SH094    304   -4.62408e-13
+SH095    404   -1.52461e-13
+SH096    760   -1.7035e-12
+SH097      0   -3.23175
+SH098      0   -0.835626
+SH099      0   -2.28093
+SH100      0   -2.1903
+SH101      0   -1.63373
+SH102      0   -0.642531
+SH103      0   -1.38367
+SH104      0   -1.3286
+SH105   1064    1.11158e-12
+SH106      0   -1.9997
+SH107     39    5.71765e-15
+SH108      0   -2.7278
+SH109      0   -1.97276
+SH110    689    2.55351e-14
+SH111      0   -1.76366
+SH112      0   -1.03984
+SH113    422    9.76996e-15
+SH114      0   -0.977217
+SH115     72    2.34368e-13
+SH116      0   -0.737072
+SH117      0   -0.111673
+SH118    113    2.00118e-13
+SH119      0   -0.217266
+SH120      0   -1.07352
+SH121   1857   -4.86722e-13
+SH122      0   -1.64863
+SH123      0   -0.0985274
+SH124      0   -0.527819
+SH125      0   -0.768554
+SH126      0   -1.25669
+SH127      0   -1.01137
+SH128      0   -0.950446
+SH129      0   -0.577803
+SH130      0   -0.732038
+SH131      0   -0.205709
+SH132      0   -0.141479
+SH133      0   -2.04386
+SH134      0   -0.386099
+SH135      0   -2.33012
+SH136      0   -3.43826
+SH137      0   -1.44942
+SH138      0   -1.66147
+SH139      0   -0.425139
+SH140      0   -1.64981
+SH141      0   -1.32362
+SH142    190   -4.55469e-14
+SH143      0   -0.854526
+SH144     76    7.35523e-15
+SH145      0   -1.15298
+SH146      0   -0.571906
+SH147    423    1.10162e-13
+SH148      0   -1.89254
+SH149      0   -0.684077
+SH150    285    1.08974e-12
+SH151      0   -3.23026
+SH152      0   -0.692616
+SH153      0   -0.177225
+SH154    121   -3.08087e-14
+SH155      0   -1.07383
+SH156      0   -2.41875
+SH157      0   -0.811271
+SH158      0   -1.48941
+SH159      0   -0.784711
+SH160      0   -0.291942
+SH161      0   -1.70509
+SH162      0   -1.67576
+SH163      0   -1.84831
+SH164      0   -1.3759
+SH165    853   -1.73123e-12
+SH166      0   -3.02089
+SH167      0   -1.50035
+SH168      0   -0.260046
+SH169      0   -2.04957
+SH170      0   -0.548494
+SH171      0   -2.26745
+SH172      0   -2.36714
+SH173    120   -5.73985e-14
+SH174      0   -2.05727
+SH175      0   -1.38052
+SH176    330    4.38705e-13
+SH177      0   -1.71367
+SH178      0   -0.740258
+SH179      0   -0.194163
+SH180      0   -2.24265
+SH181      0   -1.72229
+SH182      0   -2.27334
+SH183    105   -4.51306e-14
+SH184      0   -0.94075
+SH185      0   -0.476179
+SH186      0   -0.326614
+SH187     37    4.76008e-14
+SH188      0   -0.438458
+SH189      0   -0.956205
+SH190      0   -1.50161
+SH191      0   -0.686196
+SH192      0   -0.137855
+SH193      0   -0.279528
+SH194      0   -0.15606
+SH195    138    1.63231e-13
+SH196      0   -1.88221
+SH197    895    2.59653e-13
+SH198      0   -1.52485
+SH199      0   -0.714528
+SH200      0   -1.90698
+SH201    878   -9.00113e-14
+SH202      0   -0.0813732
+SH203    872   -3.96072e-14
+SH204      0   -2.6134
+SH205    414   -6.60583e-15
+SH206      0   -0.735439
+SH207      0   -1.78398
+SH208      0   -0.482343
+SH209    798    1.72529e-13
+SH210      0   -0.493769
+SH211      0   -1.32151
+SH212      0   -1.5083
+SH213    256    2.77556e-16
+SH214      0   -0.468503
+SH215      0   -1.93774
+SH216      0   -1.99871
+SH217    350    2.70062e-14
+SH218      0   -2.61666
+SH219      0   -1.14513
+SH220      0   -2.10895
+SH221   1002   -6.07847e-15
+SH222      0   -0.817013
+SH223    971   -7.21312e-13
+SH224    606   -1.18006e-12
+SH225    926    1.37113e-13
+SH226    660   -1.27121e-14
+SH227    777    2.34285e-13
+SH228      0   -2.26702
+SH229    184    2.07889e-14
+SH230    428    9.27342e-13
+SH231      0   -2.07906
+SH232      0   -0.328653
+SH233    431    3.37091e-13
+SH234    636   -1.50713e-14
+SH235    325    6.19227e-14
+SH236    530    7.46625e-15
+SH237      0   -0.42699
+SH238     75   -8.0963e-14
+SH239      0   -0.0621647
+SH240      0   -0.954419
+SH241      0   -0.655594
+SH242      0   -1.91999
+SH243      0   -1.84063
+SH244      0   -0.0482039
+SH245    288    3.66374e-15
+SH246      0   -1.12472
+SH247      0   -0.645185
+SH248     14    3.49248e-13
+SH249    763    1.50713e-14
+SH250      0   -2.36915
+SH251      0   -1.88558
+SH252      0   -2.28864
+SH253    491    4.16056e-14
+SH254    247    2.37033e-14
+SH255      0   -0.381686
+SH256   1166    3.07337e-13
+SH257      0   -1.64392
+SH258      0   -0.503167
+SH259     25   -7.81597e-14
+SH260      0   -0.92213
+SH261    717    6.38378e-14
+SH262   1266   -2.20379e-14
+SH263      0   -0.199454
+SH264      0   -0.741228
+SH265     20   -3.60545e-14
+SH266      0   -1.45782
+SH267      0   -1.15104
+SH268      0   -0.807464
+SH269    922   -9.35085e-14
+SH270      0   -1.00118
+SH271      0   -0.868342
+SH272      0   -1.73329
+SH273      0   -0.0275512
+SH274    121   -3.07532e-14
+SH275      0   -0.623433
+SH276      0   -0.3227
+SH277    887   -7.68552e-14
+SH278      0   -1.97798
+SH279      0   -0.323735
+SH280      0   -1.09757
+SH281    151    1.94289e-16
+SH282    912   -3.01703e-14
+SH283      0   -1.38474
+SH284      0   -0.182911
+SH285      0   -1.44149
+SH286      0   -0.441399
+SH287    867   -6.7446e-15
+SH288      0   -0.224242
+SH289     37   -1.55431e-15
+SH290      0   -0.449077
+SH291      0   -0.654007
+SH292      0   -0.709495
+SH293      0   -1.52024
+SH294      0   -1.9929
+SH295    992    2.20934e-14
+SH296      0   -0.558171
+SH297      0   -1.50131
+SH298    350   -3.18079e-14
+SH299    182   -8.29337e-14
+SH300    860    2.60347e-14
+SH301      0   -1.19218
+SH302      0   -1.69507
+SH303      0   -1.98149
+SH304      0   -0.976024
+SH305      0   -0.353555
+SH306      0   -1.27593
+SH307      0   -0.466227
+SH308    399   -7.35523e-15
+SH309      0   -0.771479
+SH310      0   -2.14557
+SH311      0   -1.47444
+SH312    347    1.11905e-12
+SH313    916    3.12667e-13
+SH314    208   -1.40998e-13
+SH315      0   -1.40994
+SH316    677    7.24976e-13
+SH317    272    3.71925e-15
+SH318      0   -0.514184
+SH319      0   -1.02611
+SH320    903    4.49918e-14
+SH321      0   -1.41178
+SH322      0   -0.4844
+SH323      0   -2.52226
+SH324      0   -1.48612
+SH325      0   -0.197036
+SH326      0   -0.503843
+SH327      0   -1.73562
+SH328      0   -0.00888927
+SH329    378   -2.42029e-14
+SH330      0   -1.64543
+SH331      0   -1.37301
+SH332      0   -1.207
+SH333      0   -1.3495
+SH334    692    5.23748e-14
+SH335      0   -0.496818
+SH336      0   -0.975103
+SH337      0   -1.22045
+SH338    453    6.28664e-14
+SH339      0   -1.3469
+SH340    495   -6.49203e-14
+SH341     50   -8.63198e-15
+SH342      0   -0.0304243
+SH343      0   -1.58778
+SH344      0   -1.98617
+SH345    361   -2.65898e-14
+SH346      0   -1.95702
+SH347      0   -0.634712
+SH348     23    8.76244e-14
+SH349      0   -0.882243
+SH350      0   -1.04511
+SH351      0   -1.10725
+SH352    547    3.68039e-14
+SH353      0   -0.0688518
+SH354      0   -1.23419
+SH355      0   -1.29452
+SH356      0   -0.237682
+SH357      0   -2.9789
+SH358      0   -1.98853
+SH359     14    5.75928e-14
+SH360      0   -1.88416
+SH361     74   -1.40721e-14
+SH362      0   -0.438973
+SH363      0   -0.485241
+SH364      0   -1.01061
+SH365      0   -0.697187
+SH366      0   -0.948594
+SH367    171    6.66134e-16
+SH368      0   -2.40306
+SH369      0   -0.389464
+SH370      0   -1.3457
+SH371      0   -0.449104
+SH372      0   -0.819596
+SH373     15    1.84019e-14
+SH374      0   -1.90605
+SH375      0   -0.0220761
+SH376      0   -0.731122
+SH377      0   -0.871378
+SH378    446   -6.92418e-13
+SH379    408   -5.34017e-14
+SH380      0   -1.03647
+SH381      0   -1.26175
+SH382      0   -2.61544
+SH383      0   -0.961506
+SH384   1133   -5.54279e-14
+SH385      0   -1.51436
+SH386      0   -2.07724
+SH387      0   -1.42931
+SH388      0   -0.832522
+SH389      0   -0.677184
+SH390      0   -1.60894
+SH391      0   -0.39956
+SH392      0   -2.08955
+SH393      0   -1.16676
+SH394      0   -1.15987
+SH395    307    1.12965e-14
+SH396      0   -1.5424
+SH397      0   -0.120981
+SH398      0   -0.133027
+SH399     55   -8.02691e-14
+SH400      0   -1.43367
+SH401      0   -2.39184
+SH402      0   -0.587087
+SH403      0   -1.58435
+SH404      0   -1.56671
+SH405      0   -1.56788
+SH406      0   -1.47663
+SH407    536   -1.92901e-14
+SH408      0   -1.8453
+SH409      0   -0.6773
+SH410      0   -0.00696107
+SH411    187   -5.66491e-14
+SH412      0   -0.298095
+SH413      0   -2.13692
+SH414      0   -0.932793
+SH415      0   -0.753724
+SH416      0   -1.49992
+SH417    556   -1.11355e-13
+SH418      0   -0.428703
+SH419    548   -9.10383e-15
+SH420      0   -1.25549
+SH421    196    5.52891e-14
+SH422      0   -0.248761
+SH423   1469    3.48888e-14
+SH424      0   -0.80772
+SH425    724   -1.12937e-13
+SH426      0   -1.04604
+SH427   1416   -3.63043e-14
+SH428      0   -2.4928
+SH429      0   -0.417439
+SH430    359   -1.57596e-13
+SH431      0   -1.17706
+SH432      0   -1.06384
+SH433      0   -3.52689
+SH434      0   -0.649753
+SH435      0   -0.174587
+SH436      0   -2.51022
+SH437      0   -0.897427
+SH438      0   -2.13694
+SH439      0   -1.65212
+SH440      0   -0.22561
+SH441      0   -2.47581
+SH442      0   -0.382804
+SH443      0   -1.3252
+SH444      0   -0.668159
+SH445    776   -4.26603e-14
+SH446      0   -1.12267
+SH447      0   -0.336207
+SH448      0   -1.96571
+SH449    283   -1.35336e-13
+SH450      0   -1.87666
+SH451    133    5.05151e-15
+SH452      0   -1.53298
+SH453   1258   -2.02893e-14
+SH454      0   -2.11505
+SH455      0   -1.30812
+SH456     56   -5.10703e-14
+SH457      0   -0.109469
+SH458      0   -0.163519
+SH459      0   -1.47885
+SH460      0   -1.90937
+SH461      0   -3.14443
+SH462    302    3.51941e-13
+SH463      0   -0.239346
+SH464      0   -0.0822946
+SH465    532    3.7248e-14
+SH466    517   -7.18314e-14
+SH467    471   -2.06779e-14
+SH468      0   -0.377591
+SH469      0   -0.561237
+SH470    283   -1.43496e-14
+SH471    387   -2.53131e-14
+SH472      0   -1.27637
+SH473    845   -1.8735e-14
+SH474    408   -8.02136e-15
+SH475      0   -1.83486
+SH476    360   -1.16573e-15
+SH477   1052    1.36835e-14
+SH478    589   -1.52656e-14
+SH479    451   -4.48253e-14
+SH480      0   -1.12967
+SH481      0   -0.67163
+SH482    262   -1.34059e-14
+SH483    859   -1.85685e-14
+SH484      0   -1.53207
+SH485      0   -1.18903
+SH486      0   -1.02026
+SH487      0   -0.0694423
+SH488      0   -1.65075
+SH489    276    1.97592e-13
+SH490   1125   -4.4631e-14
+SH491    394    5.14033e-14
+SH492      0   -0.103352
+SH493      0   -1.13899
+SH494      0   -0.627973
+SH495      0   -0.331062
+SH496      0   -1.16739
+SH497    497    2.31204e-14
+SH498      0   -0.189196
+SH499      0   -0.857581
+SH500    797    7.54674e-14
+SH501   1071   -4.28824e-14
+SH502      0   -1.59294
+SH503      0   -0.923878
+SH504      0   -1.38538
+SH505      0   -2.05296
+SH506      0   -0.990698
+SH507      0   -0.489083
+SH508    886    1.19349e-14
+SH509      0   -2.06847
+SH510      0   -1.59812
+SH511    737   -5.77038e-14
+SH512    498    4.79922e-13
+SH513    176   -2.39253e-14
+SH514    419   -4.38538e-15
+SH515      0   -0.754166
+SH516   1111    1.05471e-15
+SH517      0   -0.540543
+SH518      0   -0.462025
+SH519      0   -0.710171
+SH520      0   -0.0202172
+SH521    469    1.21292e-14
+SH522      0   -1.26787
+SH523      0   -2.06376
+SH524      0   -1.44167
+SH525    405    1.83187e-14
+SH526      0   -0.503026
+SH527      0   -1.18369
+SH528      0   -1.50303
+SH529      0   -1.82034
+SH530      0   -1.45061
+SH531      0   -2.50228
+SH532    616    1.85602e-13
+SH533      0   -0.76926
+SH534      0   -1.09407
+SH535    727    2.92349e-13
+SH536      0   -0.486586
+SH537      0   -0.290159
+SH538      0   -0.451562
+SH539      0   -1.04613
+SH540    538    3.52773e-14
+SH541      0   -1.14643
+SH542      0   -0.358342
+SH543    186    5.23748e-14
+SH544     29   -5.42622e-14
+SH545      0   -0.121218
+SH546      0   -0.365907
+SH547      0   -0.888745
+SH548      0   -2.11733
+SH549      0   -0.337646
+SH550      0   -2.32021
+SH551      0   -1.68534
+SH552    107    2.33702e-14
+SH553      0   -0.507239
+SH554      0   -0.958555
+SH555      0   -1.62625
+SH556    788    3.02536e-15
+SH557    394   -3.08642e-14
+;
+
+The optimal y-values are: 
+:      y        y.rc        :=
+1     1586   0
+2     5581   4.44089e-16
+3     6469   4.44089e-16
+4     2969   4.44089e-16
+5     6192   4.44089e-16
+6     5342   4.44089e-16
+7     5975   2.22045e-16
+8     6686   4.44089e-16
+9     4230   2.22045e-16
+10    2964   0
+11    1984   0
+12    3079   2.22045e-16
+13    3121   4.44089e-16
+14    2747   4.44089e-16
+15    3759   4.44089e-16
+16    2820   4.44089e-16
+17    1146   0
+18    2117   2.22045e-16
+19    1761   2.22045e-16
+20    1768   2.22045e-16
+21     170   0
+22     326   0
+23     894   0
+24     652   0
+25     844   0
+26     823   0
+27    1103   0
+28     610   0
+29     736   0
+30     498   0
+31     500   0
+32    1596   5.55112e-17
+33    1602   0
+34    1686   0
+35    1227   0
+36    1069   0
+37    2305   0
+38    2331   0
+39     825   0
+40     307   0
+41    9170   0
+42    6603   0
+43    4117   0
+44    6260   0
+45    5234   0
+46    8187   0
+47    6399   0
+48    9264   0
+49   10415   0
+50    9042   0
+51     900   0
+52    2038   0
+53    2457   0
+54    3547   0
+55    3120   0
+56    1881   0
+57    1990   0
+58    2182   0
+59    2213   0
+60    1485   0
+61    5447   2.22045e-16
+62    8528   4.44089e-16
+63   15826   4.44089e-16
+64    9001   4.44089e-16
+65    7900   2.22045e-16
+66    6572   2.22045e-16
+67   11056   4.44089e-16
+68   10225   4.44089e-16
+69   15260   4.44089e-16
+70    7057   2.22045e-16
+71    5616   2.22045e-16
+72    5403   2.22045e-16
+;
+
+The slack variables are:budgetRM.slack = 5394170
+
+maxMachTime.slack [*] :=
+ 1 18574   12 17081   23 19266   34 18474   45 14926   56 18279   67  9104
+ 2 14579   13 17039   24 19508   35 18933   46 11973   57 18170   68  9935
+ 3 13691   14 17413   25 19316   36 19091   47 13761   58 17978   69  4900
+ 4 17191   15 16401   26 19337   37 17855   48 10896   59 17947   70 13103
+ 5 13968   16 17340   27 19057   38 17829   49  9745   60 18675   71 14544
+ 6 14818   17 19014   28 19550   39 19335   50 11118   61 14713   72 14757
+ 7 14185   18 18043   29 19424   40 19853   51 19260   62 11632
+ 8 13474   19 18399   30 19662   41 10990   52 18122   63  4334
+ 9 15930   20 18392   31 19660   42 13557   53 17703   64 11159
+10 17196   21 19990   32 18564   43 16043   54 16613   65 12260
+11 18176   22 19834   33 18558   44 13900   55 17040   66 13588
+;
+
+maxWarehouse.slack = 59410
+
+:   maxRMQty.slack machShoeEquality.slack    :=
+1          -2            -0.667
+2          -5            -0.963333
+3          -3            -1.27167
+4           8            -0.409
+5           0            -1.71417
+6           1            -0.434667
+7           1            -0.197
+8         -11            -1.0865
+9           3            -0.216667
+10         -3            -0.589333
+11          5            -0.00383333
+12          0            -0.0948333
+13         10            -0.205833
+14          6            -1.1265
+15          0            -0.826333
+16          0            -0.0335
+17          6            -0.0931667
+18          1            -0.226667
+19          6            -0.5135
+20          2            -0.808
+21          6            -0.359333
+22         -4            -0.401333
+23          3            -0.3325
+24         -3            -0.571333
+25          0            -0.024
+26          3            -0.156
+27          2            -0.266667
+28         -4            -0.031
+29          0            -0.291667
+30          3            -0.164667
+31          0            -0.111
+32          1            -0.0173333
+33          1            -0.226167
+34          1            -0.365333
+35          0            -0.461167
+36          0            -0.295667
+37          0            -0.136333
+38          1            -0.2505
+39          0            -0.47
+40          0            -0.276667
+41          1            -2.45767
+42          0            -0.777833
+43          1            -0.942833
+44         -2            -0.014
+45          2            -0.744167
+46          2            -1.63617
+47         -1            -0.714833
+48          1            -0.274333
+49          0            -2.1085
+50          1            -3.0265
+51         -1            -0.287
+52          0            -0.429
+53          0            -0.0471667
+54          0            -0.0378333
+55          2            -0.0151667
+56          3            -0.129833
+57          1            -0.017
+58          1            -0.586333
+59          5            -0.709
+60          4            -0.119833
+61         -2            -0.00733333
+62          1            -0.018
+63          0            -0.0686667
+64          1            -3.64867
+65         -2            -2.05233
+66          0            -0.1
+67          1            -1.0955
+68         -3            -0.444167
+69         -3            -3.36967
+70          5            -0.195333
+71          3            -1.00417
+72          0            -0.0243333
+73         -1                  .
+74          1                  .
+75         -1                  .
+76          0                  .
+77          4                  .
+78          0                  .
+79         -3                  .
+80          3                  .
+81          2                  .
+82          4                  .
+83         -1                  .
+84          2                  .
+85          0                  .
+86         -1                  .
+87          0                  .
+88          2                  .
+89          0                  .
+90          1                  .
+91         -2                  .
+92          1                  .
+93         -1                  .
+94         -1                  .
+95          0                  .
+96          3                  .
+97         -2                  .
+98         -2                  .
+99          1                  .
+100         0                  .
+101        -1                  .
+102        -3                  .
+103         3                  .
+104        -1                  .
+105        -1                  .
+106        -3                  .
+107         2                  .
+108         0                  .
+109         4                  .
+110         4                  .
+111        -1                  .
+112         2                  .
+113         2                  .
+114         0                  .
+115         1                  .
+116         3                  .
+117        -1                  .
+118         0                  .
+119         4                  .
+120         1                  .
+121         1                  .
+122         0                  .
+123        -1                  .
+124        -1                  .
+125         3                  .
+126        -3                  .
+127         2                  .
+128         1                  .
+129         0                  .
+130        -2                  .
+131         0                  .
+132        -1                  .
+133        -3                  .
+134        -3                  .
+135        -3                  .
+136         0                  .
+137        -1                  .
+138        -2                  .
+139        -1                  .
+140         1                  .
+141         3                  .
+142         2                  .
+143         2                  .
+144         2                  .
+145        -1                  .
+146        -1                  .
+147         1                  .
+148         5                  .
+149        -2                  .
+150         2                  .
+151         2                  .
+152         0                  .
+153         2                  .
+154        -1                  .
+155         2                  .
+156         3                  .
+157         0                  .
+158         1                  .
+159         1                  .
+160         3                  .
+161         1                  .
+162        -1                  .
+163        -1                  .
+164         5                  .
+165        -1                  .
+;
+
+The shadow prices are:budgetRM.dual = 0
+
+maxMachTime.dual [*] :=
+ 1 0    8 0   15 0   22 0   29 0   36 0   43 0   50 0   57 0   64 0   71 0
+ 2 0    9 0   16 0   23 0   30 0   37 0   44 0   51 0   58 0   65 0   72 0
+ 3 0   10 0   17 0   24 0   31 0   38 0   45 0   52 0   59 0   66 0
+ 4 0   11 0   18 0   25 0   32 0   39 0   46 0   53 0   60 0   67 0
+ 5 0   12 0   19 0   26 0   33 0   40 0   47 0   54 0   61 0   68 0
+ 6 0   13 0   20 0   27 0   34 0   41 0   48 0   55 0   62 0   69 0
+ 7 0   14 0   21 0   28 0   35 0   42 0   49 0   56 0   63 0   70 0
+;
+
+maxWarehouse.dual = 0
+
+:   maxRMQty.dual machShoeEquality.dual    :=
+1      14.1972           0.906667
+2       8.29234          1.04667
+3      15.8042           1.00667
+4      19.0843           1.01667
+5      14.8101           1.05667
+6      11.7642           1.06667
+7       9.20045          1.11667
+8      17.7046           1.07667
+9       7.97529          1.08667
+10     12.7227           0.916667
+11     12.3446           0.816667
+12     17.1691           1.14667
+13     16.5941           1.00667
+14     19.8274           1.01667
+15     17.8449           1.01667
+16      9.11285          1.01667
+17     18.8578           0.936667
+18      7.41784          1.15667
+19     16.0604           1.08667
+20     18.3655           1.11667
+21      0.436874         0.546667
+22      2.45815          0.546667
+23      0.93975          0.546667
+24      0.845937         0.556667
+25      0.245791         0.606667
+26      1.47083          0.646667
+27      1.6284           0.656667
+28      2.40513          0.696667
+29      1.86788          0.706667
+30      2.09787          0.716667
+31     17.1359           0.476667
+32     15.4242           0.446667
+33     26.6288           0.436667
+34     15.916            0.466667
+35     12.4202           0.496667
+36     14.7772           0.506667
+37     26.2099           0.476667
+38     25.9436           0.476667
+39     21.3071           0.486667
+40     15.425            0.486667
+41     16.3936           0.886667
+42     13.4681           0.896667
+43     24.3097           0.846667
+44      9.93369          0.846667
+45     21.6204           0.846667
+46     14.3221           0.886667
+47     14.8573           0.896667
+48     11.4732           0.866667
+49     11.763            0.896667
+50     24.8154           0.916667
+51     20.9804           0.696667
+52      6.74587          0.706667
+53     17.238            0.816667
+54     19.2229           0.806667
+55     25.0483           0.816667
+56      0.641513         0.746667
+57      0.673421         0.756667
+58      1.32471          0.756667
+59      0.63177          0.756667
+60      1.16496          0.766667
+61      0.443987         1.16667
+62      0.712547         1.24667
+63      0.416544         1.24667
+64      0.273884         1.23667
+65      1.10374          1.14667
+66      0.570628         1.22667
+67      1.21049          1.26667
+68      0.782281         1.25667
+69      0.262995         1.26667
+70      0.309286         1.21667
+71      0.869975         1.15667
+72      0.224301         1.15667
+73      0.807218             .
+74      1.18434              .
+75      0.372296             .
+76      0.297043             .
+77      0.203108             .
+78      1.25568              .
+79      0.293479             .
+80      0.696292             .
+81      0.799448             .
+82      0.204969             .
+83      0.304734             .
+84      1.30323              .
+85      0.468211             .
+86      6.06813              .
+87      1.72516              .
+88      6.41243              .
+89      2.35227              .
+90      6.52914              .
+91      0.859338             .
+92      3.45225              .
+93      0.802592             .
+94      0.916657             .
+95      6.01953              .
+96      5.91512              .
+97      4.11597              .
+98      5.90259              .
+99      5.19273              .
+100     5.63627              .
+101     4.38778              .
+102     1.5092               .
+103     1.95713              .
+104     6.64409              .
+105     6.47961              .
+106     2.16333              .
+107     5.23549              .
+108     1.70376              .
+109     1.8806               .
+110     1.13778              .
+111     6.54826              .
+112     2.86606              .
+113     2.22807              .
+114     5.33633              .
+115     2.05534              .
+116     9.66163              .
+117     5.14317              .
+118     9.29941              .
+119    13.093                .
+120     9.11971              .
+121    10.935                .
+122     5.45454              .
+123    11.7853               .
+124     2.85787              .
+125     7.25591              .
+126     5.91732              .
+127     2.34937              .
+128     3.53693              .
+129     1.56814              .
+130     8.30947              .
+131    10.9733               .
+132     5.92445              .
+133     8.67801              .
+134     1.31226              .
+135    10.3883               .
+136     7.28533              .
+137     6.97663              .
+138     9.73285              .
+139     4.114                .
+140     4.95308              .
+141    10.6734               .
+142     1.08145              .
+143    10.2969               .
+144     6.13127              .
+145     2.72293              .
+146    10.2205               .
+147    10.3698               .
+148    10.0495               .
+149     1.58025              .
+150     1.19817              .
+151    10.2784               .
+152    13.6679               .
+153     2.01517              .
+154     8.34721              .
+155    10.5747               .
+156     9.51227              .
+157     5.02703              .
+158    12.6533               .
+159    13.1723               .
+160     2.29621              .
+161     6.34963              .
+162     9.41389              .
+163     5.85303              .
+164    32.2513               .
+165    24.1975               .
+;
+
+Constraint budgetRM is not binding.
+Constraint maxMachTime j1 is not binding.
+Constraint maxMachTime j2 is not binding.
+Constraint maxMachTime j3 is not binding.
+Constraint maxMachTime j4 is not binding.
+Constraint maxMachTime j5 is not binding.
+Constraint maxMachTime j6 is not binding.
+Constraint maxMachTime j7 is not binding.
+Constraint maxMachTime j8 is not binding.
+Constraint maxMachTime j9 is not binding.
+Constraint maxMachTime j10 is not binding.
+Constraint maxMachTime j11 is not binding.
+Constraint maxMachTime j12 is not binding.
+Constraint maxMachTime j13 is not binding.
+Constraint maxMachTime j14 is not binding.
+Constraint maxMachTime j15 is not binding.
+Constraint maxMachTime j16 is not binding.
+Constraint maxMachTime j17 is not binding.
+Constraint maxMachTime j18 is not binding.
+Constraint maxMachTime j19 is not binding.
+Constraint maxMachTime j20 is not binding.
+Constraint maxMachTime j21 is not binding.
+Constraint maxMachTime j22 is not binding.
+Constraint maxMachTime j23 is not binding.
+Constraint maxMachTime j24 is not binding.
+Constraint maxMachTime j25 is not binding.
+Constraint maxMachTime j26 is not binding.
+Constraint maxMachTime j27 is not binding.
+Constraint maxMachTime j28 is not binding.
+Constraint maxMachTime j29 is not binding.
+Constraint maxMachTime j30 is not binding.
+Constraint maxMachTime j31 is not binding.
+Constraint maxMachTime j32 is not binding.
+Constraint maxMachTime j33 is not binding.
+Constraint maxMachTime j34 is not binding.
+Constraint maxMachTime j35 is not binding.
+Constraint maxMachTime j36 is not binding.
+Constraint maxMachTime j37 is not binding.
+Constraint maxMachTime j38 is not binding.
+Constraint maxMachTime j39 is not binding.
+Constraint maxMachTime j40 is not binding.
+Constraint maxMachTime j41 is not binding.
+Constraint maxMachTime j42 is not binding.
+Constraint maxMachTime j43 is not binding.
+Constraint maxMachTime j44 is not binding.
+Constraint maxMachTime j45 is not binding.
+Constraint maxMachTime j46 is not binding.
+Constraint maxMachTime j47 is not binding.
+Constraint maxMachTime j48 is not binding.
+Constraint maxMachTime j49 is not binding.
+Constraint maxMachTime j50 is not binding.
+Constraint maxMachTime j51 is not binding.
+Constraint maxMachTime j52 is not binding.
+Constraint maxMachTime j53 is not binding.
+Constraint maxMachTime j54 is not binding.
+Constraint maxMachTime j55 is not binding.
+Constraint maxMachTime j56 is not binding.
+Constraint maxMachTime j57 is not binding.
+Constraint maxMachTime j58 is not binding.
+Constraint maxMachTime j59 is not binding.
+Constraint maxMachTime j60 is not binding.
+Constraint maxMachTime j61 is not binding.
+Constraint maxMachTime j62 is not binding.
+Constraint maxMachTime j63 is not binding.
+Constraint maxMachTime j64 is not binding.
+Constraint maxMachTime j65 is not binding.
+Constraint maxMachTime j66 is not binding.
+Constraint maxMachTime j67 is not binding.
+Constraint maxMachTime j68 is not binding.
+Constraint maxMachTime j69 is not binding.
+Constraint maxMachTime j70 is not binding.
+Constraint maxMachTime j71 is not binding.
+Constraint maxMachTime j72 is not binding.
+Constraint maxWarehouse is not binding.
+Constraint maxRMty k1 is not binding.
+Constraint maxRMty k2 is not binding.
+Constraint maxRMty k3 is not binding.
+Constraint maxRMty k4 is not binding.
+Constraint maxRMQty k5 is binding.
+Constraint maxRMty k6 is not binding.
+Constraint maxRMty k7 is not binding.
+Constraint maxRMty k8 is not binding.
+Constraint maxRMty k9 is not binding.
+Constraint maxRMty k10 is not binding.
+Constraint maxRMty k11 is not binding.
+Constraint maxRMQty k12 is binding.
+Constraint maxRMty k13 is not binding.
+Constraint maxRMty k14 is not binding.
+Constraint maxRMQty k15 is binding.
+Constraint maxRMQty k16 is binding.
+Constraint maxRMty k17 is not binding.
+Constraint maxRMty k18 is not binding.
+Constraint maxRMty k19 is not binding.
+Constraint maxRMty k20 is not binding.
+Constraint maxRMty k21 is not binding.
+Constraint maxRMty k22 is not binding.
+Constraint maxRMty k23 is not binding.
+Constraint maxRMty k24 is not binding.
+Constraint maxRMQty k25 is binding.
+Constraint maxRMty k26 is not binding.
+Constraint maxRMty k27 is not binding.
+Constraint maxRMty k28 is not binding.
+Constraint maxRMQty k29 is binding.
+Constraint maxRMty k30 is not binding.
+Constraint maxRMQty k31 is binding.
+Constraint maxRMty k32 is not binding.
+Constraint maxRMty k33 is not binding.
+Constraint maxRMty k34 is not binding.
+Constraint maxRMQty k35 is binding.
+Constraint maxRMQty k36 is binding.
+Constraint maxRMQty k37 is binding.
+Constraint maxRMty k38 is not binding.
+Constraint maxRMQty k39 is binding.
+Constraint maxRMQty k40 is binding.
+Constraint maxRMty k41 is not binding.
+Constraint maxRMQty k42 is binding.
+Constraint maxRMty k43 is not binding.
+Constraint maxRMty k44 is not binding.
+Constraint maxRMty k45 is not binding.
+Constraint maxRMty k46 is not binding.
+Constraint maxRMty k47 is not binding.
+Constraint maxRMty k48 is not binding.
+Constraint maxRMQty k49 is binding.
+Constraint maxRMty k50 is not binding.
+Constraint maxRMty k51 is not binding.
+Constraint maxRMQty k52 is binding.
+Constraint maxRMQty k53 is binding.
+Constraint maxRMQty k54 is binding.
+Constraint maxRMty k55 is not binding.
+Constraint maxRMty k56 is not binding.
+Constraint maxRMty k57 is not binding.
+Constraint maxRMty k58 is not binding.
+Constraint maxRMty k59 is not binding.
+Constraint maxRMty k60 is not binding.
+Constraint maxRMty k61 is not binding.
+Constraint maxRMty k62 is not binding.
+Constraint maxRMQty k63 is binding.
+Constraint maxRMty k64 is not binding.
+Constraint maxRMty k65 is not binding.
+Constraint maxRMQty k66 is binding.
+Constraint maxRMty k67 is not binding.
+Constraint maxRMty k68 is not binding.
+Constraint maxRMty k69 is not binding.
+Constraint maxRMty k70 is not binding.
+Constraint maxRMty k71 is not binding.
+Constraint maxRMQty k72 is binding.
+Constraint maxRMty k73 is not binding.
+Constraint maxRMty k74 is not binding.
+Constraint maxRMty k75 is not binding.
+Constraint maxRMQty k76 is binding.
+Constraint maxRMty k77 is not binding.
+Constraint maxRMQty k78 is binding.
+Constraint maxRMty k79 is not binding.
+Constraint maxRMty k80 is not binding.
+Constraint maxRMty k81 is not binding.
+Constraint maxRMty k82 is not binding.
+Constraint maxRMty k83 is not binding.
+Constraint maxRMty k84 is not binding.
+Constraint maxRMQty k85 is binding.
+Constraint maxRMty k86 is not binding.
+Constraint maxRMQty k87 is binding.
+Constraint maxRMty k88 is not binding.
+Constraint maxRMQty k89 is binding.
+Constraint maxRMty k90 is not binding.
+Constraint maxRMty k91 is not binding.
+Constraint maxRMty k92 is not binding.
+Constraint maxRMty k93 is not binding.
+Constraint maxRMty k94 is not binding.
+Constraint maxRMQty k95 is binding.
+Constraint maxRMty k96 is not binding.
+Constraint maxRMty k97 is not binding.
+Constraint maxRMty k98 is not binding.
+Constraint maxRMty k99 is not binding.
+Constraint maxRMQty k100 is binding.
+Constraint maxRMty k101 is not binding.
+Constraint maxRMty k102 is not binding.
+Constraint maxRMty k103 is not binding.
+Constraint maxRMty k104 is not binding.
+Constraint maxRMty k105 is not binding.
+Constraint maxRMty k106 is not binding.
+Constraint maxRMty k107 is not binding.
+Constraint maxRMQty k108 is binding.
+Constraint maxRMty k109 is not binding.
+Constraint maxRMty k110 is not binding.
+Constraint maxRMty k111 is not binding.
+Constraint maxRMty k112 is not binding.
+Constraint maxRMty k113 is not binding.
+Constraint maxRMQty k114 is binding.
+Constraint maxRMty k115 is not binding.
+Constraint maxRMty k116 is not binding.
+Constraint maxRMty k117 is not binding.
+Constraint maxRMQty k118 is binding.
+Constraint maxRMty k119 is not binding.
+Constraint maxRMty k120 is not binding.
+Constraint maxRMty k121 is not binding.
+Constraint maxRMQty k122 is binding.
+Constraint maxRMty k123 is not binding.
+Constraint maxRMty k124 is not binding.
+Constraint maxRMty k125 is not binding.
+Constraint maxRMty k126 is not binding.
+Constraint maxRMty k127 is not binding.
+Constraint maxRMty k128 is not binding.
+Constraint maxRMQty k129 is binding.
+Constraint maxRMty k130 is not binding.
+Constraint maxRMQty k131 is binding.
+Constraint maxRMty k132 is not binding.
+Constraint maxRMty k133 is not binding.
+Constraint maxRMty k134 is not binding.
+Constraint maxRMty k135 is not binding.
+Constraint maxRMQty k136 is binding.
+Constraint maxRMty k137 is not binding.
+Constraint maxRMty k138 is not binding.
+Constraint maxRMty k139 is not binding.
+Constraint maxRMty k140 is not binding.
+Constraint maxRMty k141 is not binding.
+Constraint maxRMty k142 is not binding.
+Constraint maxRMty k143 is not binding.
+Constraint maxRMty k144 is not binding.
+Constraint maxRMty k145 is not binding.
+Constraint maxRMty k146 is not binding.
+Constraint maxRMty k147 is not binding.
+Constraint maxRMty k148 is not binding.
+Constraint maxRMty k149 is not binding.
+Constraint maxRMty k150 is not binding.
+Constraint maxRMty k151 is not binding.
+Constraint maxRMQty k152 is binding.
+Constraint maxRMty k153 is not binding.
+Constraint maxRMty k154 is not binding.
+Constraint maxRMty k155 is not binding.
+Constraint maxRMty k156 is not binding.
+Constraint maxRMQty k157 is binding.
+Constraint maxRMty k158 is not binding.
+Constraint maxRMty k159 is not binding.
+Constraint maxRMty k160 is not binding.
+Constraint maxRMty k161 is not binding.
+Constraint maxRMty k162 is not binding.
+Constraint maxRMty k163 is not binding.
+Constraint maxRMty k164 is not binding.
+Constraint maxRMty k165 is not binding.
+Constraint machShoeEquality j1 is not binding. 
+Constraint machShoeEquality j2 is not binding. 
+Constraint machShoeEquality j3 is not binding. 
+Constraint machShoeEquality j4 is not binding. 
+Constraint machShoeEquality j5 is not binding. 
+Constraint machShoeEquality j6 is not binding. 
+Constraint machShoeEquality j7 is not binding. 
+Constraint machShoeEquality j8 is not binding. 
+Constraint machShoeEquality j9 is not binding. 
+Constraint machShoeEquality j10 is not binding. 
+Constraint machShoeEquality j11 is not binding. 
+Constraint machShoeEquality j12 is not binding. 
+Constraint machShoeEquality j13 is not binding. 
+Constraint machShoeEquality j14 is not binding. 
+Constraint machShoeEquality j15 is not binding. 
+Constraint machShoeEquality j16 is not binding. 
+Constraint machShoeEquality j17 is not binding. 
+Constraint machShoeEquality j18 is not binding. 
+Constraint machShoeEquality j19 is not binding. 
+Constraint machShoeEquality j20 is not binding. 
+Constraint machShoeEquality j21 is not binding. 
+Constraint machShoeEquality j22 is not binding. 
+Constraint machShoeEquality j23 is not binding. 
+Constraint machShoeEquality j24 is not binding. 
+Constraint machShoeEquality j25 is not binding. 
+Constraint machShoeEquality j26 is not binding. 
+Constraint machShoeEquality j27 is not binding. 
+Constraint machShoeEquality j28 is not binding. 
+Constraint machShoeEquality j29 is not binding. 
+Constraint machShoeEquality j30 is not binding. 
+Constraint machShoeEquality j31 is not binding. 
+Constraint machShoeEquality j32 is not binding. 
+Constraint machShoeEquality j33 is not binding. 
+Constraint machShoeEquality j34 is not binding. 
+Constraint machShoeEquality j35 is not binding. 
+Constraint machShoeEquality j36 is not binding. 
+Constraint machShoeEquality j37 is not binding. 
+Constraint machShoeEquality j38 is not binding. 
+Constraint machShoeEquality j39 is not binding. 
+Constraint machShoeEquality j40 is not binding. 
+Constraint machShoeEquality j41 is not binding. 
+Constraint machShoeEquality j42 is not binding. 
+Constraint machShoeEquality j43 is not binding. 
+Constraint machShoeEquality j44 is not binding. 
+Constraint machShoeEquality j45 is not binding. 
+Constraint machShoeEquality j46 is not binding. 
+Constraint machShoeEquality j47 is not binding. 
+Constraint machShoeEquality j48 is not binding. 
+Constraint machShoeEquality j49 is not binding. 
+Constraint machShoeEquality j50 is not binding. 
+Constraint machShoeEquality j51 is not binding. 
+Constraint machShoeEquality j52 is not binding. 
+Constraint machShoeEquality j53 is not binding. 
+Constraint machShoeEquality j54 is not binding. 
+Constraint machShoeEquality j55 is not binding. 
+Constraint machShoeEquality j56 is not binding. 
+Constraint machShoeEquality j57 is not binding. 
+Constraint machShoeEquality j58 is not binding. 
+Constraint machShoeEquality j59 is not binding. 
+Constraint machShoeEquality j60 is not binding. 
+Constraint machShoeEquality j61 is not binding. 
+Constraint machShoeEquality j62 is not binding. 
+Constraint machShoeEquality j63 is not binding. 
+Constraint machShoeEquality j64 is not binding. 
+Constraint machShoeEquality j65 is not binding. 
+Constraint machShoeEquality j66 is not binding. 
+Constraint machShoeEquality j67 is not binding. 
+Constraint machShoeEquality j68 is not binding. 
+Constraint machShoeEquality j69 is not binding. 
+Constraint machShoeEquality j70 is not binding. 
+Constraint machShoeEquality j71 is not binding. 
+Constraint machShoeEquality j72 is not binding. 
+Constraint budgetRM is not violated after rounding. 
+Constraint maxMachTime j1 is not violated after rounding. 
+Constraint maxMachTime j2 is not violated after rounding. 
+Constraint maxMachTime j3 is not violated after rounding. 
+Constraint maxMachTime j4 is not violated after rounding. 
+Constraint maxMachTime j5 is not violated after rounding. 
+Constraint maxMachTime j6 is not violated after rounding. 
+Constraint maxMachTime j7 is not violated after rounding. 
+Constraint maxMachTime j8 is not violated after rounding. 
+Constraint maxMachTime j9 is not violated after rounding. 
+Constraint maxMachTime j10 is not violated after rounding. 
+Constraint maxMachTime j11 is not violated after rounding. 
+Constraint maxMachTime j12 is not violated after rounding. 
+Constraint maxMachTime j13 is not violated after rounding. 
+Constraint maxMachTime j14 is not violated after rounding. 
+Constraint maxMachTime j15 is not violated after rounding. 
+Constraint maxMachTime j16 is not violated after rounding. 
+Constraint maxMachTime j17 is not violated after rounding. 
+Constraint maxMachTime j18 is not violated after rounding. 
+Constraint maxMachTime j19 is not violated after rounding. 
+Constraint maxMachTime j20 is not violated after rounding. 
+Constraint maxMachTime j21 is not violated after rounding. 
+Constraint maxMachTime j22 is not violated after rounding. 
+Constraint maxMachTime j23 is not violated after rounding. 
+Constraint maxMachTime j24 is not violated after rounding. 
+Constraint maxMachTime j25 is not violated after rounding. 
+Constraint maxMachTime j26 is not violated after rounding. 
+Constraint maxMachTime j27 is not violated after rounding. 
+Constraint maxMachTime j28 is not violated after rounding. 
+Constraint maxMachTime j29 is not violated after rounding. 
+Constraint maxMachTime j30 is not violated after rounding. 
+Constraint maxMachTime j31 is not violated after rounding. 
+Constraint maxMachTime j32 is not violated after rounding. 
+Constraint maxMachTime j33 is not violated after rounding. 
+Constraint maxMachTime j34 is not violated after rounding. 
+Constraint maxMachTime j35 is not violated after rounding. 
+Constraint maxMachTime j36 is not violated after rounding. 
+Constraint maxMachTime j37 is not violated after rounding. 
+Constraint maxMachTime j38 is not violated after rounding. 
+Constraint maxMachTime j39 is not violated after rounding. 
+Constraint maxMachTime j40 is not violated after rounding. 
+Constraint maxMachTime j41 is not violated after rounding. 
+Constraint maxMachTime j42 is not violated after rounding. 
+Constraint maxMachTime j43 is not violated after rounding. 
+Constraint maxMachTime j44 is not violated after rounding. 
+Constraint maxMachTime j45 is not violated after rounding. 
+Constraint maxMachTime j46 is not violated after rounding. 
+Constraint maxMachTime j47 is not violated after rounding. 
+Constraint maxMachTime j48 is not violated after rounding. 
+Constraint maxMachTime j49 is not violated after rounding. 
+Constraint maxMachTime j50 is not violated after rounding. 
+Constraint maxMachTime j51 is not violated after rounding. 
+Constraint maxMachTime j52 is not violated after rounding. 
+Constraint maxMachTime j53 is not violated after rounding. 
+Constraint maxMachTime j54 is not violated after rounding. 
+Constraint maxMachTime j55 is not violated after rounding. 
+Constraint maxMachTime j56 is not violated after rounding. 
+Constraint maxMachTime j57 is not violated after rounding. 
+Constraint maxMachTime j58 is not violated after rounding. 
+Constraint maxMachTime j59 is not violated after rounding. 
+Constraint maxMachTime j60 is not violated after rounding. 
+Constraint maxMachTime j61 is not violated after rounding. 
+Constraint maxMachTime j62 is not violated after rounding. 
+Constraint maxMachTime j63 is not violated after rounding. 
+Constraint maxMachTime j64 is not violated after rounding. 
+Constraint maxMachTime j65 is not violated after rounding. 
+Constraint maxMachTime j66 is not violated after rounding. 
+Constraint maxMachTime j67 is not violated after rounding. 
+Constraint maxMachTime j68 is not violated after rounding. 
+Constraint maxMachTime j69 is not violated after rounding. 
+Constraint maxMachTime j70 is not violated after rounding. 
+Constraint maxMachTime j71 is not violated after rounding. 
+Constraint maxMachTime j72 is not violated after rounding. 
+Constraint maxWarehouse is not violated after rounding. 
+Constraint maxRMQty k1 is violated after rounding. 
+Constraint maxRMQty k2 is violated after rounding. 
+Constraint maxRMQty k3 is violated after rounding. 
+Constraint maxRMQty k4 is not violated after rounding. 
+Constraint maxRMQty k5 is not violated after rounding. 
+Constraint maxRMQty k6 is not violated after rounding. 
+Constraint maxRMQty k7 is not violated after rounding. 
+Constraint maxRMQty k8 is violated after rounding. 
+Constraint maxRMQty k9 is not violated after rounding. 
+Constraint maxRMQty k10 is violated after rounding. 
+Constraint maxRMQty k11 is not violated after rounding. 
+Constraint maxRMQty k12 is not violated after rounding. 
+Constraint maxRMQty k13 is not violated after rounding. 
+Constraint maxRMQty k14 is not violated after rounding. 
+Constraint maxRMQty k15 is not violated after rounding. 
+Constraint maxRMQty k16 is not violated after rounding. 
+Constraint maxRMQty k17 is not violated after rounding. 
+Constraint maxRMQty k18 is not violated after rounding. 
+Constraint maxRMQty k19 is not violated after rounding. 
+Constraint maxRMQty k20 is not violated after rounding. 
+Constraint maxRMQty k21 is not violated after rounding. 
+Constraint maxRMQty k22 is violated after rounding. 
+Constraint maxRMQty k23 is not violated after rounding. 
+Constraint maxRMQty k24 is violated after rounding. 
+Constraint maxRMQty k25 is not violated after rounding. 
+Constraint maxRMQty k26 is not violated after rounding. 
+Constraint maxRMQty k27 is not violated after rounding. 
+Constraint maxRMQty k28 is violated after rounding. 
+Constraint maxRMQty k29 is not violated after rounding. 
+Constraint maxRMQty k30 is not violated after rounding. 
+Constraint maxRMQty k31 is not violated after rounding. 
+Constraint maxRMQty k32 is not violated after rounding. 
+Constraint maxRMQty k33 is not violated after rounding. 
+Constraint maxRMQty k34 is not violated after rounding. 
+Constraint maxRMQty k35 is not violated after rounding. 
+Constraint maxRMQty k36 is not violated after rounding. 
+Constraint maxRMQty k37 is not violated after rounding. 
+Constraint maxRMQty k38 is not violated after rounding. 
+Constraint maxRMQty k39 is not violated after rounding. 
+Constraint maxRMQty k40 is not violated after rounding. 
+Constraint maxRMQty k41 is not violated after rounding. 
+Constraint maxRMQty k42 is not violated after rounding. 
+Constraint maxRMQty k43 is not violated after rounding. 
+Constraint maxRMQty k44 is violated after rounding. 
+Constraint maxRMQty k45 is not violated after rounding. 
+Constraint maxRMQty k46 is not violated after rounding. 
+Constraint maxRMQty k47 is violated after rounding. 
+Constraint maxRMQty k48 is not violated after rounding. 
+Constraint maxRMQty k49 is not violated after rounding. 
+Constraint maxRMQty k50 is not violated after rounding. 
+Constraint maxRMQty k51 is violated after rounding. 
+Constraint maxRMQty k52 is not violated after rounding. 
+Constraint maxRMQty k53 is not violated after rounding. 
+Constraint maxRMQty k54 is not violated after rounding. 
+Constraint maxRMQty k55 is not violated after rounding. 
+Constraint maxRMQty k56 is not violated after rounding. 
+Constraint maxRMQty k57 is not violated after rounding. 
+Constraint maxRMQty k58 is not violated after rounding. 
+Constraint maxRMQty k59 is not violated after rounding. 
+Constraint maxRMQty k60 is not violated after rounding. 
+Constraint maxRMQty k61 is violated after rounding. 
+Constraint maxRMQty k62 is not violated after rounding. 
+Constraint maxRMQty k63 is not violated after rounding. 
+Constraint maxRMQty k64 is not violated after rounding. 
+Constraint maxRMQty k65 is violated after rounding. 
+Constraint maxRMQty k66 is not violated after rounding. 
+Constraint maxRMQty k67 is not violated after rounding. 
+Constraint maxRMQty k68 is violated after rounding. 
+Constraint maxRMQty k69 is violated after rounding. 
+Constraint maxRMQty k70 is not violated after rounding. 
+Constraint maxRMQty k71 is not violated after rounding. 
+Constraint maxRMQty k72 is not violated after rounding. 
+Constraint maxRMQty k73 is violated after rounding. 
+Constraint maxRMQty k74 is not violated after rounding. 
+Constraint maxRMQty k75 is violated after rounding. 
+Constraint maxRMQty k76 is not violated after rounding. 
+Constraint maxRMQty k77 is not violated after rounding. 
+Constraint maxRMQty k78 is not violated after rounding. 
+Constraint maxRMQty k79 is violated after rounding. 
+Constraint maxRMQty k80 is not violated after rounding. 
+Constraint maxRMQty k81 is not violated after rounding. 
+Constraint maxRMQty k82 is not violated after rounding. 
+Constraint maxRMQty k83 is violated after rounding. 
+Constraint maxRMQty k84 is not violated after rounding. 
+Constraint maxRMQty k85 is not violated after rounding. 
+Constraint maxRMQty k86 is violated after rounding. 
+Constraint maxRMQty k87 is not violated after rounding. 
+Constraint maxRMQty k88 is not violated after rounding. 
+Constraint maxRMQty k89 is not violated after rounding. 
+Constraint maxRMQty k90 is not violated after rounding. 
+Constraint maxRMQty k91 is violated after rounding. 
+Constraint maxRMQty k92 is not violated after rounding. 
+Constraint maxRMQty k93 is violated after rounding. 
+Constraint maxRMQty k94 is violated after rounding. 
+Constraint maxRMQty k95 is not violated after rounding. 
+Constraint maxRMQty k96 is not violated after rounding. 
+Constraint maxRMQty k97 is violated after rounding. 
+Constraint maxRMQty k98 is violated after rounding. 
+Constraint maxRMQty k99 is not violated after rounding. 
+Constraint maxRMQty k100 is not violated after rounding. 
+Constraint maxRMQty k101 is violated after rounding. 
+Constraint maxRMQty k102 is violated after rounding. 
+Constraint maxRMQty k103 is not violated after rounding. 
+Constraint maxRMQty k104 is violated after rounding. 
+Constraint maxRMQty k105 is violated after rounding. 
+Constraint maxRMQty k106 is violated after rounding. 
+Constraint maxRMQty k107 is not violated after rounding. 
+Constraint maxRMQty k108 is not violated after rounding. 
+Constraint maxRMQty k109 is not violated after rounding. 
+Constraint maxRMQty k110 is not violated after rounding. 
+Constraint maxRMQty k111 is violated after rounding. 
+Constraint maxRMQty k112 is not violated after rounding. 
+Constraint maxRMQty k113 is not violated after rounding. 
+Constraint maxRMQty k114 is not violated after rounding. 
+Constraint maxRMQty k115 is not violated after rounding. 
+Constraint maxRMQty k116 is not violated after rounding. 
+Constraint maxRMQty k117 is violated after rounding. 
+Constraint maxRMQty k118 is not violated after rounding. 
+Constraint maxRMQty k119 is not violated after rounding. 
+Constraint maxRMQty k120 is not violated after rounding. 
+Constraint maxRMQty k121 is not violated after rounding. 
+Constraint maxRMQty k122 is not violated after rounding. 
+Constraint maxRMQty k123 is violated after rounding. 
+Constraint maxRMQty k124 is violated after rounding. 
+Constraint maxRMQty k125 is not violated after rounding. 
+Constraint maxRMQty k126 is violated after rounding. 
+Constraint maxRMQty k127 is not violated after rounding. 
+Constraint maxRMQty k128 is not violated after rounding. 
+Constraint maxRMQty k129 is not violated after rounding. 
+Constraint maxRMQty k130 is violated after rounding. 
+Constraint maxRMQty k131 is not violated after rounding. 
+Constraint maxRMQty k132 is violated after rounding. 
+Constraint maxRMQty k133 is violated after rounding. 
+Constraint maxRMQty k134 is violated after rounding. 
+Constraint maxRMQty k135 is violated after rounding. 
+Constraint maxRMQty k136 is not violated after rounding. 
+Constraint maxRMQty k137 is violated after rounding. 
+Constraint maxRMQty k138 is violated after rounding. 
+Constraint maxRMQty k139 is violated after rounding. 
+Constraint maxRMQty k140 is not violated after rounding. 
+Constraint maxRMQty k141 is not violated after rounding. 
+Constraint maxRMQty k142 is not violated after rounding. 
+Constraint maxRMQty k143 is not violated after rounding. 
+Constraint maxRMQty k144 is not violated after rounding. 
+Constraint maxRMQty k145 is violated after rounding. 
+Constraint maxRMQty k146 is violated after rounding. 
+Constraint maxRMQty k147 is not violated after rounding. 
+Constraint maxRMQty k148 is not violated after rounding. 
+Constraint maxRMQty k149 is violated after rounding. 
+Constraint maxRMQty k150 is not violated after rounding. 
+Constraint maxRMQty k151 is not violated after rounding. 
+Constraint maxRMQty k152 is not violated after rounding. 
+Constraint maxRMQty k153 is not violated after rounding. 
+Constraint maxRMQty k154 is violated after rounding. 
+Constraint maxRMQty k155 is not violated after rounding. 
+Constraint maxRMQty k156 is not violated after rounding. 
+Constraint maxRMQty k157 is not violated after rounding. 
+Constraint maxRMQty k158 is not violated after rounding. 
+Constraint maxRMQty k159 is not violated after rounding. 
+Constraint maxRMQty k160 is not violated after rounding. 
+Constraint maxRMQty k161 is not violated after rounding. 
+Constraint maxRMQty k162 is violated after rounding. 
+Constraint maxRMQty k163 is violated after rounding. 
+Constraint maxRMQty k164 is not violated after rounding. 
+Constraint maxRMQty k165 is violated after rounding. 
+Constraint machShoeEquality j1 is violated after rounding. 
+Constraint machShoeEquality j2 is violated after rounding. 
+Constraint machShoeEquality j3 is violated after rounding. 
+Constraint machShoeEquality j4 is violated after rounding. 
+Constraint machShoeEquality j5 is violated after rounding. 
+Constraint machShoeEquality j6 is violated after rounding. 
+Constraint machShoeEquality j7 is violated after rounding. 
+Constraint machShoeEquality j8 is violated after rounding. 
+Constraint machShoeEquality j9 is violated after rounding. 
+Constraint machShoeEquality j10 is violated after rounding. 
+Constraint machShoeEquality j11 is violated after rounding. 
+Constraint machShoeEquality j12 is violated after rounding. 
+Constraint machShoeEquality j13 is violated after rounding. 
+Constraint machShoeEquality j14 is violated after rounding. 
+Constraint machShoeEquality j15 is violated after rounding. 
+Constraint machShoeEquality j16 is violated after rounding. 
+Constraint machShoeEquality j17 is violated after rounding. 
+Constraint machShoeEquality j18 is violated after rounding. 
+Constraint machShoeEquality j19 is violated after rounding. 
+Constraint machShoeEquality j20 is violated after rounding. 
+Constraint machShoeEquality j21 is violated after rounding. 
+Constraint machShoeEquality j22 is violated after rounding. 
+Constraint machShoeEquality j23 is violated after rounding. 
+Constraint machShoeEquality j24 is violated after rounding. 
+Constraint machShoeEquality j25 is violated after rounding. 
+Constraint machShoeEquality j26 is violated after rounding. 
+Constraint machShoeEquality j27 is violated after rounding. 
+Constraint machShoeEquality j28 is violated after rounding. 
+Constraint machShoeEquality j29 is violated after rounding. 
+Constraint machShoeEquality j30 is violated after rounding. 
+Constraint machShoeEquality j31 is violated after rounding. 
+Constraint machShoeEquality j32 is violated after rounding. 
+Constraint machShoeEquality j33 is violated after rounding. 
+Constraint machShoeEquality j34 is violated after rounding. 
+Constraint machShoeEquality j35 is violated after rounding. 
+Constraint machShoeEquality j36 is violated after rounding. 
+Constraint machShoeEquality j37 is violated after rounding. 
+Constraint machShoeEquality j38 is violated after rounding. 
+Constraint machShoeEquality j39 is violated after rounding. 
+Constraint machShoeEquality j40 is violated after rounding. 
+Constraint machShoeEquality j41 is violated after rounding. 
+Constraint machShoeEquality j42 is violated after rounding. 
+Constraint machShoeEquality j43 is violated after rounding. 
+Constraint machShoeEquality j44 is violated after rounding. 
+Constraint machShoeEquality j45 is violated after rounding. 
+Constraint machShoeEquality j46 is violated after rounding. 
+Constraint machShoeEquality j47 is violated after rounding. 
+Constraint machShoeEquality j48 is violated after rounding. 
+Constraint machShoeEquality j49 is violated after rounding. 
+Constraint machShoeEquality j50 is violated after rounding. 
+Constraint machShoeEquality j51 is violated after rounding. 
+Constraint machShoeEquality j52 is violated after rounding. 
+Constraint machShoeEquality j53 is violated after rounding. 
+Constraint machShoeEquality j54 is violated after rounding. 
+Constraint machShoeEquality j55 is violated after rounding. 
+Constraint machShoeEquality j56 is violated after rounding. 
+Constraint machShoeEquality j57 is violated after rounding. 
+Constraint machShoeEquality j58 is violated after rounding. 
+Constraint machShoeEquality j59 is violated after rounding. 
+Constraint machShoeEquality j60 is violated after rounding. 
+Constraint machShoeEquality j61 is violated after rounding. 
+Constraint machShoeEquality j62 is violated after rounding. 
+Constraint machShoeEquality j63 is violated after rounding. 
+Constraint machShoeEquality j64 is violated after rounding. 
+Constraint machShoeEquality j65 is violated after rounding. 
+Constraint machShoeEquality j66 is violated after rounding. 
+Constraint machShoeEquality j67 is violated after rounding. 
+Constraint machShoeEquality j68 is violated after rounding. 
+Constraint machShoeEquality j69 is violated after rounding. 
+Constraint machShoeEquality j70 is violated after rounding. 
+Constraint machShoeEquality j71 is violated after rounding. 
+Constraint machShoeEquality j72 is violated after rounding. 
